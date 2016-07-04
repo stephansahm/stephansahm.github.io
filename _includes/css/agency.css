@@ -288,10 +288,11 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
 }
 
-header .intro-text .intro-lead-in2 {
+header .intro-text .intro-lead-out {
     margin-bottom: 25px;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
+    font-style: italic;
     line-height: 22px;
 }
 
@@ -323,10 +324,11 @@ header .intro-text .intro-heading {
         font-style: italic;
         line-height: 40px;
     }
-    header .intro-text .intro-lead-in2 {
-        margin-bottom: 25px;
+    header .intro-text .intro-lead-out {
+        margin-bottom: 50px;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 30px;
+        font-style: italic;
         line-height: 40px;
     }
 
