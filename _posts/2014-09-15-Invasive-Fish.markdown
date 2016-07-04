@@ -5,7 +5,7 @@ img-preview: angular-invasive-preview.png
 img: angular-invasive.png
 alt: Angular
 caption: Invasive Fish of Canada
-description: "short description of invasive fish"
+description: "short description of invasive fish. To get familiarized with Angular, I wrote an app that plots extents of all reported observations of invasive fish in Canada.  Uses data from "
 project-date: September 2014
 client: N/A
 clienturl: https://github.com/y7kim/jekyll-angular-demo
