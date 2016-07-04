@@ -288,6 +288,13 @@ header .intro-text .intro-lead-in {
     line-height: 22px;
 }
 
+header .intro-text .intro-lead-in2 {
+    margin-bottom: 10px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 22px;
+}
+
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
@@ -296,14 +303,6 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
-
-header .intro-text .intro-lead-out {
-    margin-bottom: 25px;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-    line-height: 22px;
-}
-
 
 @media(min-width:992px) {
 
@@ -324,6 +323,12 @@ header .intro-text .intro-lead-out {
         font-style: italic;
         line-height: 40px;
     }
+    header .intro-text .intro-lead-in2 {
+        margin-bottom: 10px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 30px;
+        line-height: 40px;
+    }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
@@ -332,13 +337,6 @@ header .intro-text .intro-lead-out {
         font-size: 50px;
         font-weight: 700;
         line-height: 75px;
-    }
-
-    header .intro-text .intro-lead-out {
-        margin-bottom: 25px;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 30px;
-        line-height: 40px;
     }
 }
 
