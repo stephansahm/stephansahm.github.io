@@ -1,6 +1,5 @@
 ---
 layout: default
-date: 2014-09-15
 img-preview: angular-invasive-preview.png
 img: angular-invasive.png
 alt: Angular
