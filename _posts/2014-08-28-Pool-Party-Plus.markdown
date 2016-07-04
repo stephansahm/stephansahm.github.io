@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 5
 date: 2014-08-28
 img-preview: poolparty-preview.png
 img: poolparty.png

@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 3
 date: 2014-08-15
 img-preview: structur3d-preview.png
 img: structur3d.png

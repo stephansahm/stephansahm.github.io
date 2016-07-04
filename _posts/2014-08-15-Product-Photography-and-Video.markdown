@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 4
 date: 2014-08-15
 img-preview: s3dproducts-preview.png
 img: s3dproducts.png
