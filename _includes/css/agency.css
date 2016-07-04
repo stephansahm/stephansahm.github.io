@@ -297,6 +297,14 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-lead-out {
+    margin-bottom: 25px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 22px;
+}
+
+
 @media(min-width:992px) {
 
     .btn-xl {
@@ -324,6 +332,13 @@ header .intro-text .intro-heading {
         font-size: 50px;
         font-weight: 700;
         line-height: 75px;
+    }
+
+    header .intro-text .intro-lead-out {
+        margin-bottom: 25px;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 30px;
+        line-height: 40px;
     }
 }
 
