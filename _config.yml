@@ -19,8 +19,8 @@ social:
     url: mailto:Stephan.Sahm@gmx.de
 
 # Postal address (add as many lines as necessary)
-# address:
-#   - line: Waterloo St.
+address:
+  - line: München, Germany
 #   - line: Kitchener, ON N2H3V5
 
 # Build settings
