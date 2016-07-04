@@ -8,3 +8,11 @@
 .bg-png {
 	background: #fff url(../img/light_mosaic.png) repeat 0 0;
 }
+
+.fa-rotate-45 {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
