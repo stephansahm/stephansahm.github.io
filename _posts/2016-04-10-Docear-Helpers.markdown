@@ -7,7 +7,7 @@ client: N/A
 clienturl: https://github.com/schlichtanders/docear_helpers
 projecturl: https://github.com/schlichtanders/docear_helpers
 category: latex, mindmap, docear, python
-description: Commandline helper functionalities to simplify working with docear.
+description: Commandline helper functionalities to simplify working with Docear.
 ---
 
 docear_helpers currently encompass the following utilities. I especially

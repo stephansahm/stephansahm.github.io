@@ -7,7 +7,7 @@ client: N/A
 clienturl: https://github.com/schlichtanders/pyparsing_regex
 projecturl: http://pyparsing-regex.readthedocs.io/en/latest/
 category: pyparsing, regular expressions
-description: "pyparsing_regex implements pyparsing interfaces, however running on regular expressions"
+description: "Implementation of pyparsing's interfaces, however running on regular expressions."
 ---
 
 

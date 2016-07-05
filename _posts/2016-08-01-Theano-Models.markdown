@@ -4,8 +4,8 @@ img-preview: theano_models-preview.png
 img: theano_models.png
 alt: theano-models
 client: theano_models
-clienturl: javascript:void(0);
-projecturl: javascript:void(0);
+clienturl: https://github.com/schlichtanders/schlichtanders
+projecturl: http://schlichtanders.readthedocs.io/en/latest/schlichtanders.html
 category: python, theano, symbolic programming, numpy, gpu
 description: Lightweight model-building package, build upon theano.
 ---
