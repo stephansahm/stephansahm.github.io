@@ -1,11 +1,7 @@
 ---
 layout: default
-img-preview: python-helpers-preview.png
-img: python-helpers.png
-alt: python-helpers
-client: schlichtanders
-clienturl: https://github.com/schlichtanders/schlichtanders
-projecturl: http://schlichtanders.readthedocs.io/en/latest/schlichtanders.html
+github: https://github.com/schlichtanders/schlichtanders
+readthedocs: http://schlichtanders.readthedocs.io/en/latest/schlichtanders.html
 category: python, utils, functools, meta programming
 description: A collection of Python helper functions, functools, meta, etc.
 ---

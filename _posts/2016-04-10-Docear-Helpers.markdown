@@ -1,12 +1,7 @@
 ---
 layout: default
-img-preview: docear-preview.png
-img: docear.png
-alt: DocearHelpers
-client: N/A
-clienturl: https://github.com/schlichtanders/docear_helpers
-projecturl: https://github.com/schlichtanders/docear_helpers
-category: latex, mindmap, docear, python
+github: https://github.com/schlichtanders/docear_helpers
+keywords: latex, mindmap, docear, python
 description: Commandline helper functionalities to simplify working with Docear.
 ---
 

@@ -1,11 +1,7 @@
 ---
 layout: default
-img-preview: pyparsing_regex-preview.png
-img: pyparsing_regex.png
-alt: PyparsingRegex
-client: N/A
-clienturl: https://github.com/schlichtanders/pyparsing_regex
-projecturl: http://pyparsing-regex.readthedocs.io/en/latest/
+github: https://github.com/schlichtanders/pyparsing_regex
+readthedocs: http://pyparsing-regex.readthedocs.io/en/latest/
 category: pyparsing, regular expressions
 description: "Implementation of pyparsing's interfaces, however running on regular expressions."
 ---
