@@ -2,7 +2,7 @@
 layout: default
 github: https://github.com/schlichtanders/schlichtanders
 readthedocs: http://schlichtanders.readthedocs.io/en/latest/schlichtanders.html
-category: python, utils, functools, meta programming
+keywords: python, utils, functools, meta programming
 description: A collection of Python helper functions, functools, meta, etc.
 ---
 
