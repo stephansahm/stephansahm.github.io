@@ -27,7 +27,7 @@ The returned object is of type ``schlichtanders.myobjects.Structure`` which is a
 pyparsings ParseResult in a generic way.
 
 
-###### Additions to Pyparsing
+##### Additions to Pyparsing
 In addition to pyparsing, pyparsing_regex has a ``GroupLiftKeys`` class which works like ``Group``, only that all keys
 are also available at the upper level (encompassing everything which belongs to that key further down). In a normal
 ``Group``, the nested keys would be hided from the upper layer, which might not be what is wanted.
