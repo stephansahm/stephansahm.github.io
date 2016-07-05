@@ -2,7 +2,7 @@
 layout: default
 img-preview: theano_models-preview.png
 img: theano_models.png
-alt: theano_models
+alt: theano-models
 client: theano_models
 clienturl: javascript:void(0);
 projecturl: javascript:void(0);
