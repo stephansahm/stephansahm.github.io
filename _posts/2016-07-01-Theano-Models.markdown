@@ -1,7 +1,7 @@
 ---
 layout: default
 keywords: python, theano, symbolic programming, numpy, gpu
-description: Lightweight model-building package, build upon theano.
+description: Lightweight package for building machine learning models, on top of theano.
 ---
 
 theano_models is a high-level package around theano which implements a ``Model``
