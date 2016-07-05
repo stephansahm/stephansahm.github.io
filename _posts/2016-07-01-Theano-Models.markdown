@@ -33,6 +33,6 @@ which is fed into a GaussianNoise Model.
 
 The code will follow as soon at it is open source.
 
-<iframe src="{{ "/examples/tmp/loss.html" | prepend: site.baseurl }}">
+<iframe src="{{ "/examples/tmp/loss.html" | prepend: site.baseurl }}" height="500">
   - sorry iframe does not work -
 </iframe>
