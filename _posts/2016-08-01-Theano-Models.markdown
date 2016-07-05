@@ -3,7 +3,6 @@ layout: default
 img-preview: theano_models-preview.png
 img: theano_models.png
 alt: theano_models
-project-date: May 2013
 client: theano_models
 clienturl: javascript:void(0);
 projecturl: javascript:void(0);
@@ -37,4 +36,4 @@ which is fed into a GaussianNoise Model.
 
 The code will follow as soon at it is open source.
 
-<iframe src="{{ /examples/tmp/loss.html | prepend: site.baseurl }}"/>
+<!-- <iframe src="{{ /examples/tmp/loss.html | prepend: site.baseurl }}"/> -->
