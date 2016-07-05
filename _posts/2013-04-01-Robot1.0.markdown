@@ -15,7 +15,7 @@ It took a while to setup everything, but it runs and is controllable with
 the keyboard. OK, that is not really that impressive, but for us it was a big
 success already.
 
-![Cannot render the image]({{/img/portfolio/first_robot.jpg | prepend: site.baseurl}} "robot rc car")
+<img src="{{ "/img/portfolio/first_robot.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="">
 
 ##### Extra Features
 
