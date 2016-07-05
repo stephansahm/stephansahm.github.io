@@ -31,6 +31,4 @@ As a preview, please consider this visualization of a MLP Model,
 consisting out of two layers (AffineNonLinear Model),
 which is fed into a GaussianNoise Model.
 
-<iframe src="{{ "/examples/tmp/loss.html" | prepend: site.baseurl }}"/>
-
 The code will follow as soon at it is open source.
