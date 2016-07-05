@@ -7,7 +7,7 @@ description: Building an advanced automatic robot.
 Since a while I am planning to build a second, more professional robot with
 additional skills. Everything is collected up to know
 
-![cannot render image]({{ /img/portfolio/second_robot.jpg | prepend: site.baseurl}} "stuff")
+<img src="{{ "/img/portfolio/second_robot.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="">
 
 But configuring everything in hardware and software still needs time.
 This summer it should happen!
@@ -25,7 +25,10 @@ The whole setting is of course meant as an indoor research project (the 3D senso
 do not work that well in the wild).
 
 ##### Impressions
-This is the quadrocopter used:
-![cannot render image]({{ /img/portfolio/quadrocopter.jpg | prepend: site.baseurl}} "quadrocopter")
-and this the Wild Thumper 4WD, the basics of the base:
-![cannot render image]({{ /img/portfolio/wildthumper.jpg | prepend: site.baseurl}} "wildthumper")
+Quadrocopter, Wild Thumper 4WD (with gripper, which is going to be part of the quadrocopter), and a electro permanent magnet (gripper alternative for quadrocopter).
+
+<div class="row">
+<img src="{{ "/img/portfolio/quadrocopter.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
+<img src="{{ "/img/portfolio/wildthumper.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
+<img src="{{ "/img/portfolio/electropermanentmagnet.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
+</div
