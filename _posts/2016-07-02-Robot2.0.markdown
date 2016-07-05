@@ -7,7 +7,7 @@ description: Building an advanced automatic robot.
 Since a while I am planning to build a second, more professional robot with
 additional skills. Everything is collected up to know
 
-![cannot render image]({{ /img/portfolio/second_robot.jpg | prepend: site.baseurl}})
+![cannot render image]({{ /img/portfolio/second_robot.jpg | prepend: site.baseurl}} "stuff")
 
 But configuring everything in hardware and software still needs time.
 This summer it should happen!
@@ -26,6 +26,6 @@ do not work that well in the wild).
 
 ##### Impressions
 This is the quadrocopter used:
-![cannot render image]({{ /img/portfolio/quadrocopter.jpg | prepend: site.baseurl}})
+![cannot render image]({{ /img/portfolio/quadrocopter.jpg | prepend: site.baseurl}} "quadrocopter")
 and this the Wild Thumper 4WD, the basics of the base:
-![cannot render image]({{ /img/portfolio/wildthumper.jpg | prepend: site.baseurl}})
+![cannot render image]({{ /img/portfolio/wildthumper.jpg | prepend: site.baseurl}} "wildthumper")
