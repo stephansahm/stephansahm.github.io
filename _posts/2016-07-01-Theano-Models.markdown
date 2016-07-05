@@ -29,10 +29,12 @@ this little introduction.
 
 As a preview, please consider this visualization of a MLP Model,
 consisting out of two layers (AffineNonLinear Model),
-which is fed into a GaussianNoise Model.
-
-The code will follow as soon at it is open source.
+which is fed into a GaussianNoise Model. You see / interact with the loss function,
+which is build from the probability distribution function of the GaussianNoise,
+in log space (for numeric reasons).
 
 <iframe src="{{ "/examples/tmp/loss.html" | prepend: site.baseurl }}" height="500">
   - sorry iframe does not work -
 </iframe>
+
+The code will follow as soon at it is open source.
