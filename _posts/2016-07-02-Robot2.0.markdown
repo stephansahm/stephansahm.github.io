@@ -13,15 +13,17 @@ But configuring everything in hardware and software still needs time.
 
 ##### The Idea
 This robot is meant to be a combination of a base robot, going on wheels,
-and a quadrocopter with gripper, realizing the arm of the robot. While the base
-robot already has an ASUS Xtion 3D sensor, as well as an IMU and a bi-okular cameram,
-the flying arm at most gets a simple camera sensor for tracking objects during flight.
+and a quadrocopter with gripper (mechanical/magnetic), realizing the arm of the robot. While the base
+robot already has an ASUS Xtion 3D sensor, as well as an IMU and a binocular camera system,
+the flying arm gets at most a simple camera sensor for tracking objects during flight.
 
 The main tracking is supposed to happen by the 3D sensor, which is complemented by a
 stationary Microsoft Kinect 2 for higher resolution.
 
 The whole setting is of course meant as an indoor research project (the 3D sensors
-do not work that well in the wild).
+do not work that well in the wild). The first big aim is to transport forks and other little things
+within a fixed apartment, combining the flying quadrocopter (with magnetic gripper)
+and the driving base.
 
 ##### Impressions
 Quadrocopter, Wild Thumper 4WD (with gripper, which is going to be part of the quadrocopter), and an electro permanent magnet (gripper alternative for quadrocopter).
