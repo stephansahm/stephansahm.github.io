@@ -13,7 +13,7 @@ description: Lightweight model-building package, build upon theano.
 theano_models is a high-level package around theano which implements a ``Model``
 type to pre-structure the (occasionally rather big) theano expression graphs
 It is meant for clean programming of symbolic models, for instance Multilayer
-Perceptrons (MLP) or probabilistic modelling.
+Perceptrons (MLP) or probabilistic modeling.
 
 The ``Model`` gives a powerful view on the graphs,
 ready for interactive coding / prototyping, while being transparent and
