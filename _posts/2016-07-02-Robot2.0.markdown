@@ -1,0 +1,31 @@
+---
+layout: default
+keywords: raspberry pi, ROS, python, linux, quadrocopter, wild thumper
+description: Building an advanced automatic robot.
+---
+
+Since a while I am planning to build a second, more professional robot with
+additional skills. Everything is collected up to know
+
+![cannot render image]({{ /img/portfolio/second_robot.jpg | prepend: site.baseurl}})
+
+But configuring everything in hardware and software still needs time.
+This summer it should happen!
+
+##### The Idea
+The idea is really good. It should be a combination of a base robot, going on wheels,
+and a quadrocopter with gripper, realizing the arm of the robot. While the base
+robot already has a ASUS Xtion 3D sensor, as well as an IMU and a bi-okular cameram,
+the flying arm at most gets a simple camera sensor for tracking objects during flight.
+
+The main tracking is supposed to happen by the 3D sensor, which is complemented by
+stationary Microsoft Kinect 2 for higher resolution.
+
+The whole setting is of course meant as an indoor research project (the 3D sensors
+do not work that well in the wild).
+
+##### Impressions
+This is the quadrocopter used:
+![cannot render image]({{ /img/portfolio/quadrocopter.jpg | prepend: site.baseurl}})
+and this the Wild Thumper 4WD, the basics of the base:
+![cannot render image]({{ /img/portfolio/wildthumper.jpg | prepend: site.baseurl}})
