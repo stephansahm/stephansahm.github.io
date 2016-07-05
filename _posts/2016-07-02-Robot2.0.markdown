@@ -10,25 +10,24 @@ additional skills. Everything is collected up to know
 <img src="{{ "/img/portfolio/second_robot.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="">
 
 But configuring everything in hardware and software still needs time.
-This summer it should happen!
 
 ##### The Idea
-The idea is really good. It should be a combination of a base robot, going on wheels,
+This robot is meant to be a combination of a base robot, going on wheels,
 and a quadrocopter with gripper, realizing the arm of the robot. While the base
-robot already has a ASUS Xtion 3D sensor, as well as an IMU and a bi-okular cameram,
+robot already has an ASUS Xtion 3D sensor, as well as an IMU and a bi-okular cameram,
 the flying arm at most gets a simple camera sensor for tracking objects during flight.
 
-The main tracking is supposed to happen by the 3D sensor, which is complemented by
+The main tracking is supposed to happen by the 3D sensor, which is complemented by a
 stationary Microsoft Kinect 2 for higher resolution.
 
 The whole setting is of course meant as an indoor research project (the 3D sensors
 do not work that well in the wild).
 
 ##### Impressions
-Quadrocopter, Wild Thumper 4WD (with gripper, which is going to be part of the quadrocopter), and a electro permanent magnet (gripper alternative for quadrocopter).
+Quadrocopter, Wild Thumper 4WD (with gripper, which is going to be part of the quadrocopter), and an electro permanent magnet (gripper alternative for quadrocopter).
 
 <div class="row">
 <img src="{{ "/img/portfolio/quadrocopter.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
 <img src="{{ "/img/portfolio/wildthumper.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
 <img src="{{ "/img/portfolio/electropermanentmagnet.jpg" | prepend: site.baseurl }}" class="img-responsive col-md-4 col-xs-12" alt="">
-</div
+</div>

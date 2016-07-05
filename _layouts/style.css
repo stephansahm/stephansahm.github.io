@@ -15,3 +15,9 @@ iframe, object, embed {
 		padding:0;
 		border:0;
 }
+
+#fixed-div {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+}
