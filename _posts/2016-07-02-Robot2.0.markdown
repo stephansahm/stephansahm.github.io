@@ -1,7 +1,7 @@
 ---
 layout: default
 keywords: raspberry pi, ROS, python, linux, quadrocopter, wild thumper
-description: Building an advanced automatic robot.
+description: Building an advanced autonomous robot.
 ---
 
 Since a while I am planning to build a second, more professional robot with

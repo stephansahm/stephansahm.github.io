@@ -33,6 +33,7 @@ which is fed into a GaussianNoise Model. You see / interact with the loss functi
 which is build from the probability distribution function of the GaussianNoise,
 in log space (for numeric reasons).
 
+Try to click on the yellow nodes:
 <iframe src="{{ "/examples/tmp/loss.html" | prepend: site.baseurl }}" height="500">
   - sorry iframe does not work -
 </iframe>
