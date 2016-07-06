@@ -5,12 +5,11 @@ github: https://github.com/mustelids/weasel
 description: First trial to build my own robot.
 ---
 
-After a robotic internship at University of Osnabrück a good friend of mine
+After a internship at the robotics department of the University of Osnabrück a good friend of mine
 and I were motivated to build our own robot.
 
 A Raspberry Pi was the favourite choice for controlling the system, as we
 wanted to use full-fleshed ROS in the end, the major Robot Operating System.
-So no Arduino.
 
 It took a while to setup everything, but it runs and is controllable with
 the keyboard. OK, that is not really that impressive, but for us it was a big
@@ -24,6 +23,8 @@ Binocular vision was implemented, and also a 3D sensor, an ASUS Xtion, was bough
 For mobile computation power, I configured my Nexus 4 to run Ubuntu and ROS,
 which indeed worked out. Of course, ROS also runs on the laptop's Ubuntu,
 but it is great to know that in principle smart phones may be enough.
+
+<img src="{{ "/img/portfolio/first_robot_internals.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="">
 
 ##### To Be Continued
 For my Masters I changed the town and so this project went to sleep a bit earlier
