@@ -5,7 +5,7 @@ github: https://github.com/mustelids/weasel
 description: First trial to build my own robot.
 ---
 
-After a internship at the robotics department of the University of Osnabrück a good friend of mine
+After an internship at the robotics department of the University of Osnabrück a good friend of mine
 and I were motivated to build our own robot.
 
 A Raspberry Pi was the favourite choice for controlling the system, as we
