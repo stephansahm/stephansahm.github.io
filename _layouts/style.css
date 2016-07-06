@@ -19,3 +19,9 @@ iframe, object, embed {
 #fixed-div {
     position: fixed;
 }
+
+
+.left-right-padding {
+	padding-left: 10%;
+	padding-right: 10%;
+}

@@ -24,7 +24,7 @@ For mobile computation power, I configured my Nexus 4 to run Ubuntu and ROS,
 which indeed worked out. Of course, ROS also runs on the laptop's Ubuntu,
 but it is great to know that in principle smart phones may be enough.
 
-<img src="{{ "/img/portfolio/first_robot_internals.jpg" | prepend: site.baseurl }}" class="img-responsive" alt="">
+<img src="{{ "/img/portfolio/first_robot_internals.jpg" | prepend: site.baseurl }}" class="img-responsive left-right-padding" alt="">
 
 ##### To Be Continued
 For my Masters I changed the town and so this project went to sleep a bit earlier
