@@ -1,1 +1,3 @@
-# schlichtanders.github.io
+# stephansahm.github.io
+
+home page and portfolio of Stephan Sahm
