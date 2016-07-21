@@ -1,8 +1,8 @@
 # Site settings
-title: schlichtanders
+title: Stephan Sahm
 author: Stephan Sahm
 email: Stephan.Sahm@gmx.de
-description: "schlichtanders - Portfolio of Stephan Sahm. From Osnabrück over Nijmegen to München. Machine Learning, Probabilistic Modelling, (Bayesian) Statistics, Symbolic AI, Robots ... Get to know, what I did and who I was, and be part of what follows."
+description: "Portfolio of Stephan Sahm. From Osnabrück over Nijmegen to München. Machine Learning, Probabilistic Modelling, (Bayesian) Statistics, Symbolic AI, Robots ... Get to know, what I did and who I was, and be part of what follows. Programming languages: Python, R, Matlab, Haskell, Prolog, ..."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
