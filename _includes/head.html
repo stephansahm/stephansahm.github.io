@@ -9,6 +9,7 @@
     <meta property="og:title"              content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
     <meta property="og:description"        content="{{ site.description }}" />
     <meta property="og:image"              content="{{ site.image }}" />
+    <meta property="og:image:secure_url"   content="{{ site.image }}" />
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
