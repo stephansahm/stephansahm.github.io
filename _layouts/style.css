@@ -16,6 +16,10 @@ iframe, object, embed {
 		border:0;
 }
 
+header .intro-text {
+    padding-top: 170px;
+}
+
 #fixed-div {
     position: fixed;
 }
